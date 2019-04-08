@@ -1,0 +1,9 @@
+com\all4test\booksservices\unittests\BooksServicesApplicationTests.class
+com\all4test\booksservices\acceptancetests\stepdefs\SearchForABookSteps.class
+com\all4test\booksservices\acceptancetests\context\ScenarioContext.class
+com\all4test\booksservices\acceptancetests\helpers\HttpCodeHelper.class
+com\all4test\booksservices\acceptancetests\report\GenerateReport.class
+com\all4test\booksservices\acceptancetests\stepdefs\BaseTest.class
+com\all4test\booksservices\acceptancetests\stepdefs\ComputeDiscountSteps.class
+com\all4test\booksservices\acceptancetests\runner\RunAcceptanceTestSuite.class
+com\all4test\booksservices\acceptancetests\helpers\BooksHelper.class
