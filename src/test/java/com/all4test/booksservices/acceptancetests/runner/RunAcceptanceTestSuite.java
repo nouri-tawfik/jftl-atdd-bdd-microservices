@@ -18,7 +18,7 @@ import java.util.List;
 @RunWith(Cucumber.class)
 @CucumberOptions(
         features = "src/test/resources/features",
-        tags = {"@demo"},
+        tags = {"@sprint-01"},
         monochrome = true,
         plugin = {
                 "pretty", "html:target/cucumber-report/single",
