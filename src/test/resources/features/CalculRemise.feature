@@ -15,7 +15,7 @@ Feature: Calcul de la remise
     And le pourcentage de la remise est <Pourcentage>
     Examples:
       | Total | Catégorie  | Code | Pourcentage |
-      | 10.00 | BONNE      | OK   | 7           |
+      | 10.00 | BONNE      | OK   | 1           |
       | 10.01 | BONNE      | OK   | 1           |
       | 50.01 | BONNE      | OK   | 1           |
       | 0.01  | EXCELLENTE | OK   | 1           |
